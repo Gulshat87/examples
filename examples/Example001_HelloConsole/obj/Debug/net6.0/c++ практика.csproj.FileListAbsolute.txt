@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\c++ практика\obj\Debug\net6.0\c++ практика.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\c++ практика\obj\Debug\net6.0\c++ практика.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\c++ практика\obj\Debug\net6.0\c++ практика.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\c++ практика\obj\Debug\net6.0\c++ практика.AssemblyInfo.cs
+C:\Users\User\Desktop\c++ практика\obj\Debug\net6.0\c++ практика.csproj.CoreCompileInputs.cache
